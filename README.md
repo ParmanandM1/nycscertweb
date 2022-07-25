@@ -9,9 +9,9 @@ CSCI70900 - Programming in a high level language:
 [Click here for a showcase work](CSCI709)
 
 SEDC71900 - Methods 1: 
-<a href="url">Click here for a showcase work for SEDC 719</a>
+<a href="https://github.com/hunter-teacher-cert/cohort-3-summer-work-ParmanandM1/blob/master/methods/01_Lesson.pdf">Click here for a showcase work for SEDC 719</a>
 
 
 
 CSCI70300 - Data Structures:
-<a href="https://github.com/ParmanandM1/nycscertweb/blob/5cc8a93a1915bafc4bfa6a47d8a812f8a5e288f0/CSCI703">Click here for a showcase work for CSCI 703</a>
+<a href="https://github.com/hunter-teacher-cert/cohort-3-summer-work-ParmanandM1/blob/master/ds/Linkedlist/LinkedList.java">Click here for a showcase work for CSCI 703</a>
