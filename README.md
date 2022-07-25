@@ -14,4 +14,4 @@ SEDC71900 - Methods 1:
 
 
 CSCI70300 - Data Structures:
-<a href="url">Click here for a showcase work for CSCI 703</a>
+<a href="https://github.com/ParmanandM1/nycscertweb/blob/5cc8a93a1915bafc4bfa6a47d8a812f8a5e288f0/CSCI703">Click here for a showcase work for CSCI 703</a>
